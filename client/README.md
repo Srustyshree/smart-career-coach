@@ -72,6 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 🖼️ Screenshot
 
-![App Screenshot](client/screenshot.png)
+![Smart Career Coach Demo](screenshot.png)
+
 
 
