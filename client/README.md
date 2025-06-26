@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## 🖼️ Screenshot
 
-![Smart Career Coach UI](screenshot.png)
+![App UI](screenshot.png)
 
 
 
